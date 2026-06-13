@@ -1,4 +1,4 @@
-## Gower's similarity
+# Gower's similarity
 Мифтахутдинов Тимур | Бабаян Артур | Абрамов Георгий | Кашникова Ксения
 
 Исследование влияния использования Gower's distance в сравнении c косинусной близостью в классических моделях для рекомендаций:
@@ -13,6 +13,6 @@
   9. HybridSVD
 
 
-# Результаты
+## Результаты
 1. [Финальный отчет](https://drive.google.com/file/d/1xXb1SYOd3lm0_jRGzyKWZngRwZGIHZIx/view?usp=drive_link)
 2. [Презентация решения](https://drive.google.com/file/d/1NqWjBxJmPSxB_P1YF8PZyqN-3ZEm-b25/view?usp=drive_link)
