@@ -7,7 +7,7 @@
   3. Slim
   4. Eigenrec
   5. SGD
-  6. 6. iALS
+  6. iALS
   7. uKNN, iKNN
   8. BPR
   9. HybridSVD
